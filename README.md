@@ -2,7 +2,7 @@
 
 Ruby, Cucumber and RSpec test automation of the VIACEP API. 
 
-The features of the tests are inside `ruby-automation-api/features/viacep_api_testing.feature` and the step definitions are inside `ruby.automation-api/features/step_definitions/step_definitions.rb`
+The features of the tests are inside `ruby-automation-api/features/viacep_api_testing.feature` and the step definitions are inside `ruby-automation-api/features/step_definitions/step_definitions.rb`
 
 ## 🎥 Tests Execution Demonstration
 
